@@ -17,7 +17,8 @@ I have extensive experience in applying machine learning/deep learning technique
 and large language models to construction-related applications, to enhance smart building control and construction
 operations, management, and safety. 
 
-
 When I'm not working, I enjoy spending time playing soccer and jogging.
+
+Please find my [CV](https://reachsak.github.io/files/reachsak.pdf) and [resume](https://reachsak.github.io/files/resume.pdf) here.
 
 
