@@ -23,7 +23,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 **CMG 1000 – Introduction to Construction Management** (Fall 2025)  
 This course introduces students to construction management processes and procedures, relationships, practices, terminology, project types, procurement methods, industry standards, contract documents, and career opportunities. Topics include the roles of the owner, architect, engineer, and contractor; project teams and organizations; their responsibilities and interrelationships; types of contracts; different project delivery methods; bidding and award documents and procedures; construction budgets; cost estimating; construction planning and scheduling; cost control; sustainability; technology.
 
-**Print Reading and Introduction to Building Information Management (BIM)** (Fall 2025)  
+**CMG 2223 Print Reading and Introduction to Building Information Management (BIM)** (Fall 2025)  
 This course provides an introduction to reading and interpreting construction drawings and specifications, along with an entry-level exploration of Building Information Modeling (BIM). In the first portion of the course, students will learn how construction plans are organized and drawn, how to read and interpret architectural and engineering drawings, and how to apply this knowledge from conceptual design through final construction documentation. In the second part of the course, students are introduced to the fundamentals of BIM, with a focus on creating and modifying 3D building models using Autodesk Revit.
 
 **BC 4434 Construction Practice I** (Fall 2022, Spring 2023, Fall 2023)  
