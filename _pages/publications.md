@@ -5,26 +5,20 @@ permalink: /publication/
 author_profile: true
 ---
 
-## In submission
+## Under Review
 
-**Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education, (*In revision for submission*)
+**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and LLM-based artificial intelligence agents integrated framework for autonomous building cyber-physical system, [(Preprint)](https://arxiv.org/abs/2410.19262) 
 
+**Reachsak Ly**, Alireza Shojaei*, Public and private blockchain-based IoT and digital building twin integrated framework for decentralized automation of building facilities operation, [(Preprint)](https://reachsak.github.io/files/study1.pdf) 
 
-## Working Paper
+**Reachsak Ly**, Alireza Shojaei*, Data-driven and distributed governance of building facilities management using decentralized autonomous organization, digital twin, and large language models, [(Preprint)](https://reachsak.github.io/files/study2.pdf) 
 
-**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and LLM-based artificial intelligence agents integrated framework for autonomous building cyber-physical system, [(Preprint available at arXiv:2410.19262)](https://arxiv.org/abs/2410.19262) 
+**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management, [(Preprint)](https://reachsak.github.io/files/study3.pdf) 
 
-**Reachsak Ly**, Alireza Shojaei*, Public and private blockchain-based IoT and digital building twin integrated framework for decentralized automation of building facilities operation, (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei*, Data-driven and distributed governance of building facilities management using decentralized autonomous organization, digital twin, and large language models, (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management, (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei*, Digital twin and LLM-based artificial intelligence agents integrated framework for human building interaction, (*In preparation for submission*)
 
 ## Peer-Reviewed Journal Publication
 
-**Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal
+**Reachsak Ly**, Alireza Shojaei, "[Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations](https://doi.org/10.1007/s10257-025-00699-1)," Information Systems and e-Business Management Journal 
 
 Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to enhance teaching quality in construction](https://doi.org/10.1080/15623599.2024.2304475)," International Journal of Construction Management
 
@@ -33,6 +27,8 @@ Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-
 Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
 
 ## Refereed Conference Proceedings
+
+**Reachsak Ly**, Alireza Shojaei, Xinghua Gao "[Smart Building Operations and Virtual Assistants Using LLM](https://doi.org/10.1145/3696630.3728706)," Companion Proceedings of the 33rd ACM Symposium on the Foundations of Software Engineering, June 23-27, 2025, Trondheim, Norway
 
 **Reachsak Ly**, Alireza Shojaei, Hossein Naderi "[DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management](https://doi.org/10.1061/9780784485262.081)," Construction Research Congress 2024  [(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
 

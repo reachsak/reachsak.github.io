@@ -24,9 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Reachsak Ly"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Virginia Tech"
+  bio              : "Assistant Professor of Construction Management at Eastern Illinois University"
   location         : "reachsak@vt.edu"
-  employer         : "Virginia Tech"
+  location         : "rly@eiu.edu"
+  employer         : "Eastern Illinois University"
+  employer         : "Ph.D. at Virginia Tech"
   uri              : # example: "she/her" 
   email            : # example: "she/her" 
 
