@@ -12,17 +12,20 @@ main:
   - title: "Teaching"
     url: /teaching/ 
     
-  - title: "Presentation"
-    url: /markdown/
-    
   - title: "CV"
     url: http://reachsak.github.io/files/reachsak.pdf
     
   - title: "Resume"
     url: http://reachsak.github.io/files/resume.pdf
+
+  - title: "Project"
+    url: https://reachsak.github.io/files/projectlist.pdf
+    
+  - title: "Presentation"
+    url: /markdown/
     
   - #title: "Talk"
-    #url: /talks/    
+    #url: /talks/https://reachsak.github.io/files/projectlist.pdf    
     
   - #title: "Blog Posts"
     #url: /year-archive/
