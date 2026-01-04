@@ -38,6 +38,12 @@ This course explores and applies business and construction management practices 
 Course topics include production systems, behavior of construction systems and workers, relationships between subsystems in the construction process, queuing systems, process modeling, and simulation. This course gives students an understanding of the production process from both a theoretical and practical perspective. It also equips them with tools and techniques to design, analyze, and improve construction processes.  
 *Duties*: Instructed students on the use of Primavera Cloud for project management, including scheduling, process planning, and production analysis. Provided hands-on guidance in utilizing the software to model and improve construction processes. Graded student assignments and projects, offering detailed feedback to enhance their understanding of production systems and process modeling.
 
+**CMG 3833 Sustainable Buildings** (Spring 2026) 
+This course examines the principles of environmentally sustainable construction with applications in green building design, construction techniques, and building mechanical systems. Emphasis is placed on sustainable building strategies that improve environmental performance, resource efficiency, and occupant well-being. The course also introduces the Leadership in Energy and Environmental Design (LEED) Green Building Rating System as a framework for benchmarking the design, construction, and operation of high-performance buildings.
+
+<img width="468" height="114" alt="image" src="https://github.com/user-attachments/assets/52c5e170-0c7d-4996-ac3f-47c74365d1a2" />
+
+
 ### Graduate Level
 
 **TEC 5143 – Research in Technology** (Fall 2025)  
