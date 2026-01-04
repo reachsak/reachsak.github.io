@@ -56,7 +56,7 @@ This capstone course applies business and construction management principles thr
 
 ### Graduate Level
 
-**TEC 5143 – Research in Technology** (Fall 2025)  
+**TEC 5143 – Research in Technology** (Fall 2025)  (Spring 2026) 
 This course introduces the means and methods of research used to define and investigate problems in technology-related fields. Topics include problem and scope definition, literature review, research methodologies, data collection, and data analysis. Students will learn the processes and tools for conducting both experimental and non-experimental research, with an emphasis on research design, analysis, interpretation, and reporting. The course also guides students in writing of a research proposal.
 
 **BC 5984 Decision-Making and Risk Management** (Spring 2024, Fall 2024)  
