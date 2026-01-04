@@ -41,7 +41,8 @@ Course topics include production systems, behavior of construction systems and w
 **CMG 3833 Sustainable Buildings** (Spring 2026) 
 This course examines the principles of environmentally sustainable construction with applications in green building design, construction techniques, and building mechanical systems. Emphasis is placed on sustainable building strategies that improve environmental performance, resource efficiency, and occupant well-being. The course also introduces the Leadership in Energy and Environmental Design (LEED) Green Building Rating System as a framework for benchmarking the design, construction, and operation of high-performance buildings.
 
-<img width="468" height="114" alt="image" src="https://github.com/user-attachments/assets/52c5e170-0c7d-4996-ac3f-47c74365d1a2" />
+**CMG 4223 – Construction Cost Estimating** (Spring 2026) 
+This course covers the principles and practices of construction cost estimating, including the estimation of materials, labor, and equipment costs. Emphasis is placed on conventional cost estimating methods applied to a wide range of residential and commercial construction projects. Students learn to interpret construction documents, perform quantity takeoffs, and develop accurate cost estimates to support effective project planning and decision-making.
 
 
 ### Graduate Level
