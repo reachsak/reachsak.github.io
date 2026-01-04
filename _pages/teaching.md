@@ -1,4 +1,4 @@
----
+<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/3d4d83b7-2d48-43ee-b033-0e391ae3c51e" />---
 layout: archive
 title: "Teaching"
 permalink: teaching/
@@ -48,6 +48,10 @@ This course examines the principles of environmentally sustainable construction 
 **CMG 4223 – Construction Cost Estimating** (Spring 2026) 
 
 This course covers the principles and practices of construction cost estimating, including the estimation of materials, labor, and equipment costs. Emphasis is placed on conventional cost estimating methods applied to a wide range of residential and commercial construction projects. Students learn to interpret construction documents, perform quantity takeoffs, and develop accurate cost estimates to support effective project planning and decision-making.
+
+**CMG 4243- Construction Project Management Capstone**  (Spring 2026) 
+
+This capstone course applies business and construction management principles through the development and preparation of a professional response to a Request for Proposals (RFP) for an actual Design–Build (D/B) project. Students explore key topics related to Design–Build contracting, including Design–Build delivery methods and advantages, alternative D/B formats, project scope definition, performance-based versus prescriptive specifications, and RFP requirements. 
 
 
 ### Graduate Level
