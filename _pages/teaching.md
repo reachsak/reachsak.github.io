@@ -15,9 +15,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ---
 
-
-## Graduate Teaching Assistant
-
 ### Undergraduate Level
 
 **CMG 1000 – Introduction to Construction Management** (Fall 2025)  
