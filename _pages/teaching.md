@@ -54,8 +54,10 @@ This capstone course applies business and construction management principles thr
 ### Graduate Level
 
 **TEC 5143 – Research in Technology** (Fall 2025)  (Spring 2026) 
+
 This course introduces the means and methods of research used to define and investigate problems in technology-related fields. Topics include problem and scope definition, literature review, research methodologies, data collection, and data analysis. Students will learn the processes and tools for conducting both experimental and non-experimental research, with an emphasis on research design, analysis, interpretation, and reporting. The course also guides students in writing of a research proposal.
 
 **BC 5984 Decision-Making and Risk Management** (Spring 2024, Fall 2024)  
+
 This course explores the theories, methodologies, and tools used in decision-making and risk management from a beginner to advanced level. Students will gain insights into the complexities of making decisions in uncertain environments and learn strategies to manage and mitigate risks effectively. This course is designed to prepare students to think critically and become better decision makers. It will also equip them with risk management knowledge to apply in various contexts.  
 *Duties*: Supervised students in performing calculations related to planned and expected values for decision-making in project management. Guided them through the application of risk management strategies and techniques. Facilitated hands-on experience with project simulation using the Monte Carlo method to analyze and manage uncertainties in project outcomes.
