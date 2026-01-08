@@ -1,4 +1,4 @@
-<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/3d4d83b7-2d48-43ee-b033-0e391ae3c51e" />---
+
 layout: archive
 title: "Teaching"
 permalink: teaching/
