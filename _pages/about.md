@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Construction Management at Eastern Illinois University's School of Technology. I received my Ph.D. from Virginia Polytechnic Institute and State University’s Myers-Lawson School of Construction with a focus on construction management. At Virginia Tech, I worked under the supervision of Dr. Alireza Shojaei and I am also grateful to be advised by Dr. Xinghua Gao, Dr. Abiola Akanmu, and Dr. Philip Agee.
+I am currently serving as an Assistant Professor of Construction Management at Eastern Illinois University's School of Technology. I received my Ph.D. from Virginia Polytechnic Institute and State University’s Myers-Lawson School of Construction with a focus on construction management. At Virginia Tech, I worked under the supervision of Dr. Alireza Shojaei and I am also grateful to be advised by Dr. Xinghua Gao, Dr. Abiola Akanmu, and Dr. Philip Agee.
 
 Prior to Virginia Tech, I received a Bachelor of Engineering in Civil Engineering from Zhejiang University with a specialization in Structural Engineering, where I've spent the last two of the program working as an undergraduate research assistant on the application of Deep Learning for structural health monitoring.
 
@@ -21,6 +21,6 @@ operations, management, and safety.
 
 When I'm not working, I enjoy spending time playing soccer and jogging.
 
-Please find my [CV](https://reachsak.github.io/files/reachsak.pdf) and [resume](https://reachsak.github.io/files/resume.pdf) here.
+Please find my [CV](https://reachsak.github.io/files/reachsak.pdf) or [resume](https://reachsak.github.io/files/resume.pdf) here.
 
 
