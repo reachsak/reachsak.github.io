@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: http://reachsak.github.io/files/resume.pdf
     
-  - title: "Research Lab"
-    url: https://built-lab.github.io/
+  - #title: "Research Lab"
+    #url: https://built-lab.github.io/
     
   - title: "Project"
     url: https://reachsak.github.io/files/projectlist.pdf
