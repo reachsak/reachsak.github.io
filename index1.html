@@ -16,76 +16,6 @@
       rel="icon"
       href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏗️</text></svg>"
     />
-
-    <!--
-      Lightweight styles for the new quick-nav row and the Teaching section.
-      These are scoped to new classes only, so they won't conflict with
-      stylesheet.css. Feel free to move these into stylesheet.css later.
-    -->
-    <style>
-      html {
-        scroll-behavior: smooth;
-      }
-
-      .section-nav {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 0.5rem 1rem;
-        margin-top: 0.75rem;
-      }
-
-      .section-nav a {
-        font-size: 0.85rem;
-        text-decoration: none;
-        opacity: 0.8;
-        border: 1px solid currentColor;
-        border-radius: 999px;
-        padding: 0.25rem 0.75rem;
-      }
-
-      .section-nav a:hover {
-        opacity: 1;
-      }
-
-      .pub-subhead {
-        margin-top: 1.5rem;
-        margin-bottom: 0.5rem;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 0.04em;
-        font-size: 0.85rem;
-        opacity: 0.7;
-      }
-
-      .teach-group {
-        margin-bottom: 1.5rem;
-      }
-
-      .teach-institution {
-        font-weight: 600;
-        margin-bottom: 0.5rem;
-      }
-
-      .teach-list {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-      }
-
-      .teach-list li {
-        padding: 0.35rem 0;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-      }
-
-      .teach-list a {
-        text-decoration: none;
-      }
-
-      .teach-list a:hover {
-        text-decoration: underline;
-      }
-    </style>
   </head>
 
   <body>
@@ -160,17 +90,6 @@
 
             <a href="https://built-lab.github.io/">BUILT Lab</a>
           </nav>
-
-          <br />
-
-          <!-- ===== Quick section-jump nav (auto-scrolls to sections below) ===== -->
-          <nav class="section-nav">
-            <a href="#education">Education &amp; Appointments</a>
-            <a href="#funding">Research Funding</a>
-            <a href="#ip">Intellectual Property</a>
-            <a href="#publications">Selected Publications</a>
-            <a href="#teaching">Teaching</a>
-          </nav>
         </div>
 
         <div class="hero-side">
@@ -185,7 +104,7 @@
       </header>
 
       <!-- ===================== Education & Appointments ==================== -->
-      <section class="section" id="education">
+      <section class="section">
         <span class="section-label">Background</span>
 
         <h2 class="section-title">Education &amp; Appointments</h2>
@@ -246,11 +165,13 @@
         </div>
       </section>
 
-      <!-- ==================== Research Funding =================== -->
-      <section class="section" id="funding">
-        <span class="section-label"> Funding </span>
+      <!-- ==================== Funding & IP =================== -->
+      <section class="section">
+        <span class="section-label"> Funding &amp; IP </span>
 
-        <h2 class="section-title">Research Funding</h2>
+        <h2 class="section-title">
+          Research Funding &amp; Intellectual Property
+        </h2>
 
         <div class="fund-box">
           <span class="fund-tag"> 2026 · Grant </span>
@@ -264,13 +185,6 @@
             Construction Technology Education · Award: $2,500
           </div>
         </div>
-      </section>
-
-      <!-- ==================== Intellectual Property =================== -->
-      <section class="section" id="ip">
-        <span class="section-label"> IP </span>
-
-        <h2 class="section-title">Intellectual Property</h2>
 
         <div class="fund-box">
           <span class="fund-tag"> 2025 · Approved </span>
@@ -301,18 +215,20 @@
       </section>
 
       <!-- ==================== Research / Publications =================== -->
-      <section class="section" id="publications">
+      <section class="section">
         <span class="section-label"> Research </span>
 
         <h2 class="section-title">Selected Publications</h2>
 
-        <!-- ---------------- Journal Articles ---------------- -->
-        <div class="pub-subhead">Journal Articles</div>
+        <div class="pub-year">2025</div>
 
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -331,6 +247,7 @@
 
             <div class="pub-link">
               <a href="https://doi.org/10.1007/s10257-025-00699-1"> [DOI] </a>
+
               <a href="#"> [BibTeX] </a>
             </div>
           </div>
@@ -339,7 +256,42 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
+            </div>
+          </div>
+
+          <div class="pub-content">
+            <div class="pub-title">
+              Smart Building Operations and Virtual Assistants Using LLM
+            </div>
+
+            <div class="pub-authors">
+              <b>Reachsak Ly</b>, Alireza Shojaei, Xinghua Gao
+            </div>
+
+            <div class="pub-venue">
+              33rd ACM Symposium on Foundations of Software Engineering (FSE
+              2025), Trondheim, Norway · DOI:10.1145/3696630.3728706
+            </div>
+
+            <div class="pub-link">
+              <a href="https://doi.org/10.1145/3696630.3728706"> [DOI] </a>
+
+              <a href="#"> [BibTeX] </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub-box">
+          <div class="pub-media">
+            <div class="pub-placeholder">
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -369,7 +321,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -396,7 +351,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -426,7 +384,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -456,7 +417,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -469,18 +433,23 @@
             </div>
 
             <div class="pub-authors">
-              MohammadHossein Heydari, Hossein Naderi, <b>Reachsak Ly</b>,
-              Alireza Shojaei
+              MohammadHossein Heydari, Hossein Naderi,
+              <b>Reachsak Ly</b>, Alireza Shojaei
             </div>
 
             <div class="pub-venue">Innovative Higher Education (Submitted)</div>
           </div>
         </div>
 
+        <div class="pub-year">2024</div>
+
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -503,6 +472,7 @@
               <a href="https://doi.org/10.1080/15623599.2024.2304475">
                 [DOI]
               </a>
+
               <a href="#"> [BibTeX] </a>
             </div>
           </div>
@@ -511,143 +481,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              Autonomous Construction Safety Incentive Mechanism Using
-              Blockchain-Enabled Tokens and Vision-Based Techniques
-            </div>
-
-            <div class="pub-authors">
-              Hossein Naderi, Alireza Shojaei, <b>Reachsak Ly</b>
-            </div>
-
-            <div class="pub-venue">
-              Automation in Construction, Vol. 153 ·
-              DOI:10.1016/j.autcon.2023.104959
-            </div>
-
-            <div class="pub-link">
-              <a href="https://doi.org/10.1016/j.autcon.2023.104959"> [DOI] </a>
-              <a href="#"> [BibTeX] </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              Virtual Site Visits in Construction Management Education: A
-              Practical Alternative to Physical Site Visits
-            </div>
-
-            <div class="pub-authors">
-              Alireza Shojaei, <b>Reachsak Ly</b>, Saeed Rokooei, Amirsamman
-              Mahdavian, Ahmed AlBayati
-            </div>
-
-            <div class="pub-venue">
-              Journal of Information Technology in Construction (ITcon) ·
-              DOI:10.36680/j.itcon.2023.036
-            </div>
-
-            <div class="pub-link">
-              <a href="https://doi.org/10.36680/j.itcon.2023.036"> [DOI] </a>
-              <a href="#"> [BibTeX] </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- ---------------- Conference Proceedings ---------------- -->
-        <div class="pub-subhead">Conference Proceedings</div>
-
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              Smart Building Operations and Virtual Assistants Using LLM
-            </div>
-
-            <div class="pub-authors">
-              <b>Reachsak Ly</b>, Alireza Shojaei, Xinghua Gao
-            </div>
-
-            <div class="pub-venue">
-              33rd ACM Symposium on Foundations of Software Engineering (FSE
-              2025), Trondheim, Norway · DOI:10.1145/3696630.3728706
-            </div>
-
-            <div class="pub-link">
-              <a href="https://doi.org/10.1145/3696630.3728706"> [DOI] </a>
-              <a href="#"> [BibTeX] </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              AVATAR: AI-Assisted Virtual Assistant and Augmented Twin for
-              Advanced Real-Time Smart Building Facilities Management
-              <span class="status"> Accepted </span>
-            </div>
-
-            <div class="pub-authors"><b>Reachsak Ly</b></div>
-
-            <div class="pub-venue">
-              2026 ATMAE Annual Conference, New Orleans, LA · Oral Presentation
-              · Submission ID 32
-            </div>
-          </div>
-        </div>
-
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              Edge AI for Human-Building Interaction and Smart Building
-              Operations with Small Language Models
-              <span class="status"> Accepted </span>
-            </div>
-
-            <div class="pub-authors"><b>Reachsak Ly</b></div>
-
-            <div class="pub-venue">
-              2026 ATMAE Annual Conference, New Orleans, LA · Poster
-              Presentation · Submission ID 33.0
-            </div>
-          </div>
-        </div>
-
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -668,6 +505,7 @@
 
             <div class="pub-link">
               <a href="https://doi.org/10.1061/9780784485262.081"> [DOI] </a>
+
               <a href="#"> [BibTeX] </a>
             </div>
           </div>
@@ -676,7 +514,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -697,6 +538,7 @@
 
             <div class="pub-link">
               <a href="https://doi.org/10.1061/9780784485262.031"> [DOI] </a>
+
               <a href="#"> [BibTeX] </a>
             </div>
           </div>
@@ -705,7 +547,10 @@
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -730,10 +575,84 @@
           </div>
         </div>
 
+        <div class="pub-year">2023</div>
+
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
+            </div>
+          </div>
+
+          <div class="pub-content">
+            <div class="pub-title">
+              Autonomous Construction Safety Incentive Mechanism Using
+              Blockchain-Enabled Tokens and Vision-Based Techniques
+            </div>
+
+            <div class="pub-authors">
+              Hossein Naderi, Alireza Shojaei, <b>Reachsak Ly</b>
+            </div>
+
+            <div class="pub-venue">
+              Automation in Construction, Vol. 153 ·
+              DOI:10.1016/j.autcon.2023.104959
+            </div>
+
+            <div class="pub-link">
+              <a href="https://doi.org/10.1016/j.autcon.2023.104959"> [DOI] </a>
+
+              <a href="#"> [BibTeX] </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub-box">
+          <div class="pub-media">
+            <div class="pub-placeholder">
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
+            </div>
+          </div>
+
+          <div class="pub-content">
+            <div class="pub-title">
+              Virtual Site Visits in Construction Management Education: A
+              Practical Alternative to Physical Site Visits
+            </div>
+
+            <div class="pub-authors">
+              Alireza Shojaei, <b>Reachsak Ly</b>, Saeed Rokooei, Amirsamman
+              Mahdavian, Ahmed AlBayati
+            </div>
+
+            <div class="pub-venue">
+              Journal of Information Technology in Construction (ITcon) ·
+              DOI:10.36680/j.itcon.2023.036
+            </div>
+
+            <div class="pub-link">
+              <a href="https://doi.org/10.36680/j.itcon.2023.036"> [DOI] </a>
+
+              <a href="#"> [BibTeX] </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub-year">2021</div>
+
+        <div class="pub-box">
+          <div class="pub-media">
+            <div class="pub-placeholder">
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -758,10 +677,15 @@
           </div>
         </div>
 
+        <div class="pub-year">2020</div>
+
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -785,43 +709,21 @@
             </div>
           </div>
         </div>
+      </section>
 
-        <!-- ---------------- Research Reports ---------------- -->
-        <div class="pub-subhead">Research Reports</div>
+      <!-- ==================== Reports & Posters =================== -->
+      <section class="section">
+        <span class="section-label"> Reports </span>
 
-        <div class="pub-box">
-          <div class="pub-media">
-            <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
-            </div>
-          </div>
-
-          <div class="pub-content">
-            <div class="pub-title">
-              Investigation of Gender and Racial Diversity in U.S. Construction
-              Higher Education
-            </div>
-
-            <div class="pub-authors">
-              <b>Reachsak Ly</b>, Mohammad Hossein Heydari, Hossein Naderi, Josh
-              Iorio, Alireza Shojaei
-            </div>
-
-            <div class="pub-venue">Research Report</div>
-
-            <div class="pub-link">
-              <a href="#"> [PDF] </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- ---------------- Poster Presentations ---------------- -->
-        <div class="pub-subhead">Poster Presentations</div>
+        <h2 class="section-title">Research Reports &amp; Posters</h2>
 
         <div class="pub-box">
           <div class="pub-media">
             <div class="pub-placeholder">
-              <span> Image / GIF<br />placeholder </span>
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
             </div>
           </div>
 
@@ -836,8 +738,8 @@
             </div>
 
             <div class="pub-venue">
-              2025 Paul E. Torgersen Graduate Student Research Excellence Award,
-              Virginia Tech, Blacksburg, VA
+              Poster · 2025 Paul E. Torgersen Graduate Student Research
+              Excellence Award, Virginia Tech, Blacksburg, VA
             </div>
 
             <div class="pub-link">
@@ -845,81 +747,34 @@
             </div>
           </div>
         </div>
-      </section>
 
-      <!-- ==================== Teaching =================== -->
-      <section class="section" id="teaching">
-        <span class="section-label"> Teaching </span>
+        <div class="pub-box">
+          <div class="pub-media">
+            <div class="pub-placeholder">
+              <span>
+                Image / GIF<br />
+                placeholder
+              </span>
+            </div>
+          </div>
 
-        <h2 class="section-title">Teaching</h2>
+          <div class="pub-content">
+            <div class="pub-title">
+              Investigation of Gender and Racial Diversity in U.S. Construction
+              Higher Education
+            </div>
 
-        <div class="teach-group">
-          <div class="teach-institution">Eastern Illinois University</div>
+            <div class="pub-authors">
+              <b>Reachsak Ly</b>, Mohammad Hossein Heydari, Hossein Naderi, Josh
+              Iorio, Alireza Shojaei
+            </div>
 
-          <ul class="teach-list">
-            <li>
-              <a href="syllabi/cmg1000.pdf">
-                CMG 1000 – Introduction to Construction Management
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/cmg2223.pdf">
-                CMG 2223 – Print Reading and Introduction to Building
-                Information Management (BIM)
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/cmg3833.pdf">
-                CMG 3833 – Sustainable Buildings
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/cmg4223.pdf">
-                CMG 4223 – Construction Cost Estimating
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/cmg4243.pdf">
-                CMG 4243 – Construction Project Management Capstone
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/egt3063.pdf"> EGT 3063 – 3D Modeling </a>
-            </li>
-            <li>
-              <a href="syllabi/tec5143.pdf">
-                TEC 5143 – Research in Technology
-              </a>
-            </li>
-          </ul>
-        </div>
+            <div class="pub-venue">Research Report, 2024</div>
 
-        <div class="teach-group">
-          <div class="teach-institution">Virginia Tech (TA)</div>
-
-          <ul class="teach-list">
-            <li>
-              <a href="syllabi/bc4434.pdf">
-                BC 4434 – Construction Practice I
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/bc4444.pdf">
-                BC 4444 – Construction Practice II (Capstone Project)
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/bc4164.pdf">
-                BC 4164 – Process Planning and Production Design for
-                Construction
-              </a>
-            </li>
-            <li>
-              <a href="syllabi/bc5984.pdf">
-                BC 5984 – Decision-Making and Risk Management
-              </a>
-            </li>
-          </ul>
+            <div class="pub-link">
+              <a href="#"> [PDF] </a>
+            </div>
+          </div>
         </div>
       </section>
 
