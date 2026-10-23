@@ -14,15 +14,21 @@
   --accent: #800000;
   --accent-soft: #a34848;
   --border: #ddd5c2;
-  --serif: Charter, "Bitstream Charter", "Source Serif 4", Georgia,
-    "Times New Roman", serif;
-  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
+  --serif:
+    Charter, "Bitstream Charter", "Source Serif 4", Georgia, "Times New Roman",
+    serif;
+  --sans:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, sans-serif;
 }
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   margin: 0;
@@ -46,7 +52,9 @@ a {
   transition: color 0.15s ease;
 }
 
-a:hover { color: var(--accent-soft); }
+a:hover {
+  color: var(--accent-soft);
+}
 
 .page {
   max-width: 1000px;
@@ -65,7 +73,10 @@ a:hover { color: var(--accent-soft); }
   margin-bottom: 26px;
 }
 
-.hero-text { flex: 1; min-width: 0; }
+.hero-text {
+  flex: 1;
+  min-width: 0;
+}
 
 .hero-name {
   font-family: var(--serif);
@@ -77,7 +88,9 @@ a:hover { color: var(--accent-soft); }
   line-height: 1.2;
 }
 
-.hero-name .accent { color: var(--accent); }
+.hero-name .accent {
+  color: var(--accent);
+}
 
 .hero-tagline {
   font-family: var(--serif);
@@ -87,7 +100,10 @@ a:hover { color: var(--accent-soft); }
   margin: 0 0 22px;
 }
 
-.hero-text p { margin: 0 0 14px; color: var(--text); }
+.hero-text p {
+  margin: 0 0 14px;
+  color: var(--text);
+}
 
 .hero-links {
   margin-top: 20px;
@@ -104,10 +120,15 @@ a:hover { color: var(--accent-soft); }
   font-size: 13.5px;
   font-weight: 600;
   color: var(--text-soft);
-  transition: border-color 0.15s ease, color 0.15s ease;
+  transition:
+    border-color 0.15s ease,
+    color 0.15s ease;
 }
 
-.hero-links a:hover { border-color: var(--accent); color: var(--accent); }
+.hero-links a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
 
 /* Image sits to the right of the bio text */
 .hero-side {
@@ -135,15 +156,22 @@ a:hover { color: var(--accent-soft); }
 }
 
 @media (max-width: 780px) {
-  .hero { flex-direction: column-reverse; align-items: center; }
-  .hero-side { padding-top: 0; }
+  .hero {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .hero-side {
+    padding-top: 0;
+  }
 }
 
 /* ------------------------------------------------------------------ */
 /* Sections                                                            */
 /* ------------------------------------------------------------------ */
 
-.section { margin-top: 46px; }
+.section {
+  margin-top: 46px;
+}
 
 .section-label {
   display: block;
@@ -183,7 +211,9 @@ a:hover { color: var(--accent-soft); }
   border-radius: 8px;
   padding: 15px 22px;
   margin-bottom: 12px;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .intern-box:hover {
@@ -199,7 +229,9 @@ a:hover { color: var(--accent-soft); }
   object-fit: contain;
 }
 
-.intern-info { flex: 1; }
+.intern-info {
+  flex: 1;
+}
 
 .intern-company {
   font-family: var(--serif);
@@ -209,13 +241,30 @@ a:hover { color: var(--accent-soft); }
   margin-bottom: 2px;
 }
 
-.intern-role { font-size: 14.5px; color: var(--text-soft); }
-.intern-date { font-size: 13.5px; color: var(--text-faint); margin-top: 1px; }
-.intern-advisor { font-size: 13.5px; color: var(--text-faint); font-style: italic; }
+.intern-role {
+  font-size: 14.5px;
+  color: var(--text-soft);
+}
+.intern-date {
+  font-size: 13.5px;
+  color: var(--text-faint);
+  margin-top: 1px;
+}
+.intern-advisor {
+  font-size: 13.5px;
+  color: var(--text-faint);
+  font-style: italic;
+}
 
 @media (max-width: 640px) {
-  .intern-box { flex-direction: column; align-items: flex-start; gap: 10px; }
-  .intern-logo { margin: 0; }
+  .intern-box {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .intern-logo {
+    margin: 0;
+  }
 }
 
 /* Publications */
@@ -241,7 +290,9 @@ a:hover { color: var(--accent-soft); }
   border-radius: 8px;
   padding: 15px 22px;
   margin-bottom: 12px;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .pub-box:hover {
@@ -278,7 +329,10 @@ a:hover { color: var(--accent-soft); }
   line-height: 1.4;
 }
 
-.pub-content { flex: 1; min-width: 0; }
+.pub-content {
+  flex: 1;
+  min-width: 0;
+}
 
 .pub-title {
   font-family: var(--serif);
@@ -289,8 +343,14 @@ a:hover { color: var(--accent-soft); }
   line-height: 1.45;
 }
 
-.pub-authors { color: var(--text-soft); font-size: 14px; margin-bottom: 3px; }
-.pub-authors b { color: var(--text); }
+.pub-authors {
+  color: var(--text-soft);
+  font-size: 14px;
+  margin-bottom: 3px;
+}
+.pub-authors b {
+  color: var(--text);
+}
 
 .pub-venue {
   font-style: italic;
@@ -298,13 +358,30 @@ a:hover { color: var(--accent-soft); }
   color: var(--text-faint);
 }
 
-.pub-link { margin-top: 5px; font-size: 13.5px; }
-.pub-link a { font-weight: 600; margin-right: 12px; }
+.pub-link {
+  margin-top: 5px;
+  font-size: 13.5px;
+}
+.pub-link a {
+  font-weight: 600;
+  margin-right: 12px;
+}
 
 @media (max-width: 640px) {
-  .pub-box { flex-direction: column; }
-  .pub-media, .pub-image, .pub-placeholder { width: 100%; flex-basis: auto; }
-  .pub-image, .pub-placeholder { width: 100%; height: 140px; }
+  .pub-box {
+    flex-direction: column;
+  }
+  .pub-media,
+  .pub-image,
+  .pub-placeholder {
+    width: 100%;
+    flex-basis: auto;
+  }
+  .pub-image,
+  .pub-placeholder {
+    width: 100%;
+    height: 140px;
+  }
 }
 
 /* Funding / IP tiles */
@@ -316,7 +393,9 @@ a:hover { color: var(--accent-soft); }
   border-radius: 8px;
   padding: 15px 22px;
   margin-bottom: 12px;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .fund-box:hover {
@@ -343,7 +422,10 @@ a:hover { color: var(--accent-soft); }
   line-height: 1.4;
 }
 
-.fund-desc { font-size: 13.5px; color: var(--text-soft); }
+.fund-desc {
+  font-size: 13.5px;
+  color: var(--text-soft);
+}
 
 /* Status badge (e.g. "Under Review") on publications */
 
@@ -369,7 +451,9 @@ a:hover { color: var(--accent-soft); }
   color: var(--text);
 }
 
-.plain-list li { margin-bottom: 8px; }
+.plain-list li {
+  margin-bottom: 8px;
+}
 
 /* ------------------------------------------------------------------ */
 /* Footer                                                              */
@@ -382,4 +466,12 @@ a:hover { color: var(--accent-soft); }
   text-align: center;
   color: var(--text-faint);
   font-size: 13px;
+}
+
+.pub-desc {
+  margin-top: 12px;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #555;
+  text-align: justify;
 }
